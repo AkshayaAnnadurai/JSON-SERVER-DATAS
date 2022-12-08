@@ -251,5 +251,8 @@
           "text": "You are the spiderman of this world"
         }
       ],
-      "library":[]
+      "library":[],
+      "user":[],
+      "posts":[]
+
     }
