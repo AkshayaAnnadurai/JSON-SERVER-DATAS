@@ -1,78 +1,14 @@
 {
     "users": [
-        {
+        
          
       ],
       "facebook":[
-        {
-          "id": 1,
-          "rating": 10,
-          "user_name": "Tony Stark",
-          "text": "You are the ironman of this world"
-        },
-        {
-          "id": 2,
-          "rating": 9,
-          "user_name": "Bruce Wayne",
-          "text": "You are the batman of this world"
-        },
-        {
-          "id": 3,
-          "rating": 8,
-          "user_name": "Peter Parker",
-          "text": "You are the spiderman of this world"
-        }
+      
       ],
       "library":[],
       "user":[
-        {
-          "name": "akshay",
-          "age": "23",
-          "gender": "Female",
-          "country": "India",
-          "profession": "Employed",
-          "id": 1
-        },
-        {
-          "name": "zaara",
-          "age": "23",
-          "gender": "Female",
-          "country": "Pakistan",
-          "profession": "Student",
-          "id": 2
-        },
-        {
-          "name": "Anbusudar",
-          "age": "28",
-          "gender": "Female",
-          "country": "india",
-          "profession": "Employed",
-          "id": 3
-        },
-        {
-          "name": "Anbuselvan",
-          "age": "19",
-          "gender": "Male",
-          "country": "India",
-          "profession": "Student",
-          "id": 4
-        },
-        {
-          "name": "aaalfa",
-          "age": "19",
-          "gender": "Male",
-          "country": "Pakistan",
-          "profession": "Student",
-          "id": 5
-        },
-        {
-          "name": "Harry Potter and the Philosopher's Stone",
-          "age": "23",
-          "gender": "Male",
-          "country": "Pakistan",
-          "profession": "Employed",
-          "id": 6
-        }
+       
       ],
       "posts":[],
       "freedom":[],
